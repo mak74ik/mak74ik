@@ -2,50 +2,47 @@
 
 # Yoshi (@mak74ik)
 
-> **Systems, Networking, Polyglot & P2P Software Engineer**
+### Systems, Distributed Networking & Linux Infrastructure Engineer
 
-[![GitHub followers](https://img.shields.io/github/followers/mak74ik?label=Followers&style=for-the-badge&color=0EA5E9)](https://github.com/mak74ik)
-[![GitHub stars](https://img.shields.io/github/stars/mak74ik?label=Total%20Stars&style=for-the-badge&color=F59E0B)](https://github.com/mak74ik)
-[![Website](https://img.shields.io/badge/Portfolio-mak74ik.github.io-10B981?style=for-the-badge&logo=safari&logoColor=white)](https://mak74ik.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mak74ik.github.io-00C853?style=for-the-badge&logo=safari&logoColor=white)](https://mak74ik.github.io)
+[![Followers](https://img.shields.io/github/followers/mak74ik?label=Followers&style=for-the-badge&color=0EA5E9)](https://github.com/mak74ik)
+[![Releases](https://img.shields.io/badge/Releases-15+_Published-F59E0B?style=for-the-badge&logo=github)](https://github.com/mak74ik?tab=repositories)
 
 </div>
 
 ---
 
-## ⚡ Tech Stack & Core Competencies
+### ⚡ Core Technical Competencies
 
-- **Languages:** Python 3.13, Rust, C#, Go, TypeScript, C99, x86-64 NASM
-- **Systems & Architecture:** P2P & Mesh Networks, RFC 5389 STUN NAT Traversal, Docker & Podman, Linux Kernel/Sysadmin, Tailscale
-- **UI & Aesthetics:** Liquid Glass UI, VisionOS Physical Optics, Three.js / WebGL, Terminal TUI (Ratatui, BubbleTea)
-- **Security & Cryptography:** PBKDF2, AES-256 / Fernet, RSA-2048, Zero-Knowledge Architectures
+- **Systems & OS Engineering:** Linux Kernel tuning, Archiso custom distribution engineering, systemd services, Shell automation, Arch Linux rice aesthetics.
+- **Distributed Networks & Security:** P2P Mesh Architectures, RFC 5389 STUN protocol, UDP Hole Punching, PBKDF2, AES-128/256, RSA-2048 cryptography.
+- **Backend & Tooling:** Python 3.11+ (AsyncIO, Socket, Struct, Subprocess), Rust, Docker & Docker Compose, PyInstaller packaging, CI/CD GitHub Actions.
+- **UI & Physical Optics:** Liquid Glass UI, VisionOS optics, WebGL shaders, responsive frontend architecture.
 
 ---
 
-## 🚀 Featured Open Source Projects
+### 🚀 Flagship & Featured Projects
 
-| Project | Tech Stack | Description | License |
+| Project | Domain | Architecture & Technologies | Release / Status |
 | :--- | :--- | :--- | :---: |
-| 🔒 [**furor-sync**](https://github.com/mak74ik/furor-sync) | `Python` `Fernet` `RSA` | Lightweight local-first P2P encrypted file vault with zero cloud dependence. | [MIT](https://github.com/mak74ik/furor-sync/blob/main/LICENSE) |
-| ⚙️ [**controlla**](https://github.com/mak74ik/controlla) | `Python` `Docker` `Podman` | High-speed container & process orchestration CLI with live log streaming. | [MIT](https://github.com/mak74ik/controlla/blob/main/LICENSE) |
-| 🌐 [**nat_traversal**](https://github.com/mak74ik/nat_traversal) | `Python` `STUN` `UDP` | Zero-config RFC 5389 STUN client and UDP hole punching engine for direct P2P connections. | [MIT](https://github.com/mak74ik/nat_traversal/blob/main/LICENSE) |
-| 🕸️ [**mesh_pul**](https://github.com/mak74ik/mesh_pul) | `Python` `AsyncIO` `Gossip` | Decentralized P2P mesh network node with gossip flooding protocol. | [MIT](https://github.com/mak74ik/mesh_pul/blob/main/LICENSE) |
-| 📁 [**file-sync**](https://github.com/mak74ik/file-sync) | `Python` `SHA-256` | Delta directory synchronizer with cryptographic hash verification. | [MIT](https://github.com/mak74ik/file-sync/blob/main/LICENSE) |
-| 📡 [**syncnode**](https://github.com/mak74ik/syncnode) | `Python` `AsyncIO` | Asynchronous file synchronization node with verified packet delivery. | [MIT](https://github.com/mak74ik/syncnode/blob/main/LICENSE) |
-| 🎮 [**divinity-music-mod-manager**](https://github.com/mak74ik/divinity-music-mod-manager) | `Python` `Audio` | Cross-platform audio mod unpacker & manager for Divinity: Original Sin Enhanced Edition. | [MIT](https://github.com/mak74ik/divinity-music-mod-manager) |
-| 🚨 [**ukraine-alert-forecast**](https://github.com/mak74ik/ukraine-alert-forecast) | `Python` `OSINT` `Telegram` | Real-time air raid alert telemetry, machine learning forecasting & alert dispatch. | [MIT](https://github.com/mak74ik/ukraine-alert-forecast) |
-| 🌐 [**mak74ik.github.io**](https://github.com/mak74ik/mak74ik.github.io) | `HTML5` `Liquid Glass` `CSS3` | Personal interactive portfolio website with Apple VisionOS refractive glass materials. | [Open](https://mak74ik.github.io) |
+| 🛡️ [**ukraine-alert-forecast**](https://github.com/mak74ik/ukraine-alert-forecast) | Real-Time Civil Defense | Python, AsyncIO, Docker Compose, Capacitor, Telegram Bot API | [![v2.4.0](https://img.shields.io/badge/release-v2.4.0-00C853?style=flat-square)](https://github.com/mak74ik/ukraine-alert-forecast/releases) |
+| 🌸 [**arch-fluttershy-edition**](https://github.com/mak74ik/arch-fluttershy-edition) | Custom Linux OS Distribution | Archiso, Bash, Hyprland, Wayland, Plymouth, Automated Bootstrap | [![v2026.10](https://img.shields.io/badge/release-v2026.10-FF69B4?style=flat-square)](https://github.com/mak74ik/arch-fluttershy-edition/releases) |
+| 🎵 [**divinity-music-mod-manager**](https://github.com/mak74ik/divinity-music-mod-manager) | Reverse Engineering & Audio | Python, RIFF/WAV unpacking, PyInstaller, Cross-platform Web UI | [![v1.0.0](https://img.shields.io/badge/release-v1.0.0-blue?style=flat-square)](https://github.com/mak74ik/divinity-music-mod-manager/releases) |
+| 🌐 [**mak74ik.github.io**](https://mak74ik.github.io) | Frontend & Visual Design | Liquid Glass UI, VisionOS continuous optics, WebGL, Pure Vanilla JS | [![Live](https://img.shields.io/badge/status-Live_Production-10B981?style=flat-square)](https://mak74ik.github.io) |
+| 🔐 [**furor-sync**](https://github.com/mak74ik/furor-sync) | Zero-Cloud Encrypted Storage | Python, Fernet AES, PBKDF2, RSA-2048 Key Agreement, CLI | [![v1.0.0](https://img.shields.io/badge/release-v1.0.0-purple?style=flat-square)](https://github.com/mak74ik/furor-sync/releases) |
+| 📡 [**nat_traversal**](https://github.com/mak74ik/nat_traversal) | Low-Level Networking | RFC 5389 STUN binary protocol parser, UDP Hole Punching engine | [![v1.0.0](https://img.shields.io/badge/release-v1.0.0-cyan?style=flat-square)](https://github.com/mak74ik/nat_traversal/releases) |
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mak74ik&show_icons=true&theme=radical&hide_border=true&bg_color=08080a&title_color=0ea5e9&icon_color=38bdf8&text_color=94a3b8" alt="Yoshi GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak74ik&layout=compact&theme=radical&hide_border=true&bg_color=08080a&title_color=0ea5e9&text_color=94a3b8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mak74ik&show_icons=true&theme=radical&hide_border=true&bg_color=08080a&title_color=0ea5e9&icon_color=38bdf8&text_color=94a3b8" alt="Yoshi GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak74ik&layout=compact&theme=radical&hide_border=true&bg_color=08080a&title_color=0ea5e9&text_color=94a3b8" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Maintained autonomously with precision engineering • Built with ☕ & Code</sub>
+  <sub>Engineered with precision by Yoshi • Open source contributor & systems developer</sub>
 </div>
