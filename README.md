@@ -5,7 +5,6 @@
 ### Systems, Distributed Networking & Linux Infrastructure Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mak74ik.github.io-00C853?style=for-the-badge&logo=safari&logoColor=white)](https://mak74ik.github.io)
-[![Followers](https://img.shields.io/github/followers/mak74ik?label=Followers&style=for-the-badge&color=0EA5E9)](https://github.com/mak74ik)
 [![Releases](https://img.shields.io/badge/Releases-15+_Published-F59E0B?style=for-the-badge&logo=github)](https://github.com/mak74ik?tab=repositories)
 
 </div>
